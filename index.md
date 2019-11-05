@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Yuzhen Liu
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -11,9 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Education
 
-Standing on the shoulders of giants
+`2010-2015` University of Toronto
 
 ### Specialized in
 
